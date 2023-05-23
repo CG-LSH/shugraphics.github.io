@@ -21,15 +21,15 @@ to the minimum radius of the skeleton, and 𝛼 is a scaling factor ranging from
 
 Render Mode : 
 
-SelcetMode "1" :Voxel topology ![figure.1](https://github.com/CG-LSH/shugraphics.github.io/figure/1.png)
+SelcetMode "1" :Voxel topology ![figure.1](https://github.com/CG-LSH/shugraphics.github.io/tree/main/figure/1.png)  
 
-SelcetMode "2" :Iso-surface  ![figure.2](https://github.com/CG-LSH/shugraphics.github.io/figure/2.png)
+SelcetMode "2" :Iso-surface  ![figure.2](https://github.com/CG-LSH/shugraphics.github.io/tree/main/figure/2.png)
 
-SelcetMode "3" :Voxel particle   ![figure.3](https://github.com/CG-LSH/shugraphics.github.io/figure/3.png)
+SelcetMode "3" :Voxel particle   ![figure.3](https://github.com/CG-LSH/shugraphics.github.io/tree/main/figure/3.png)
 
-SelcetMode "4" :Non-adaptive mesh   ![figure.4](https://github.com/CG-LSH/shugraphics.github.io/figure/4.png)
+SelcetMode "4" :Non-adaptive mesh   ![figure.4](https://github.com/CG-LSH/shugraphics.github.io/tree/main/figure/4.png)
 
-SelcetMode "5" :Adaptive mesh  ![figure.5](https://github.com/CG-LSH/shugraphics.github.io/figure/5.png)
+SelcetMode "5" :Adaptive mesh  ![figure.5](https://github.com/CG-LSH/shugraphics.github.io/tree/main/figure/5.png)
 
 ...
 
