@@ -6,7 +6,6 @@ And an executable program for Windows is also provided.
 Specific functions： 
 
 Input parameters:
-
 1. voxel size :  Control the fineness of the overall model, the smaller the value the more precise and relatively more time-consuming. Default value as 𝑣𝑜𝑥𝑒𝑙 𝑠𝑖𝑧𝑒 = 𝛼 ∗ 𝑟, where 𝑟 corresponds
 to the minimum radius of the skeleton, and 𝛼 is a scaling factor ranging from 0.125 to 1.0;
 
