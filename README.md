@@ -1,7 +1,7 @@
 # shugraphics.github.io
 Our online neuronal modeling site (http://47.100.48.237:8080/SWCweb)
 
-And an executable program for Windows is also provided([exe](https://github.com/CG-LSH/shugraphics.github.io/AdaptiveVolumeNueronModel_Realse_Exe)), the operation video is provided as well.([video](https://github.com/CG-LSH/shugraphics.github.io/CSBJ_compressed.mp4)) 
+And an executable program for Windows is also provided([exe](https://github.com/CG-LSH/shugraphics.github.io/tree/main/AdaptiveVolumeNueronModel_Realse_Exe)), the operation video is provided as well.([video](https://github.com/CG-LSH/shugraphics.github.io/tree/main/CSBJ_compressed.mp4)) 
 
 Specific functions： 
 
