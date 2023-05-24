@@ -1,0 +1,12 @@
+D:\OpenVDB\opevdb_viewer_AdaptiveRemeshing\x64\Release\opevdb_viewer.vcxproj.CopyComplete
+D:\OpenVDB\opevdb_viewer_AdaptiveRemeshing\x64\Release\opevdb_viewer_AdaptiveRemeshing.exe
+D:\OpenVDB\opevdb_viewer_AdaptiveRemeshing\x64\Release\glew32.dll
+D:\OpenVDB\opevdb_viewer_AdaptiveRemeshing\x64\Release\glfw3.dll
+D:\OpenVDB\opevdb_viewer_AdaptiveRemeshing\x64\Release\OpenMeshCore.dll
+D:\OpenVDB\opevdb_viewer_AdaptiveRemeshing\x64\Release\openvdb.dll
+D:\OpenVDB\opevdb_viewer_AdaptiveRemeshing\x64\Release\tbb.dll
+D:\OpenVDB\opevdb_viewer_AdaptiveRemeshing\x64\Release\blosc.dll
+D:\OpenVDB\opevdb_viewer_AdaptiveRemeshing\x64\Release\lz4.dll
+D:\OpenVDB\opevdb_viewer_AdaptiveRemeshing\x64\Release\snappy.dll
+D:\OpenVDB\opevdb_viewer_AdaptiveRemeshing\x64\Release\zlib1.dll
+D:\OpenVDB\opevdb_viewer_AdaptiveRemeshing\x64\Release\zstd.dll
